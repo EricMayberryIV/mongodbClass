@@ -6,3 +6,6 @@
 
 
 ## Ignored files
+
+# This file
+/.gitignore
